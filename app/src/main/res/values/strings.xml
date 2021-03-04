@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">I Am Not Real</string>
+    <string name="intro">This app generates fictional human faces using Artificial Intelligence</string>
+    <string name="link_caption"><u>How can this be?</u></string>
+    <string name="i_am_not_real">I am not real.</string>
+    <string name="hey_there">Hey There!</string>
+    <string name="save_image_txt">Save Image</string>
+    <string name="refresh_txt">Refresh</string>
+    <string name="loading_text">Please wait...</string>
+    <string name="continue_btn">continue</string>
+</resources>
